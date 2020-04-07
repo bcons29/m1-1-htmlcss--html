@@ -8,11 +8,7 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 
 ```html
 <!DOCTYPE html>
-<html>
-   <body>
-      ...
-   </body>
-</html>
+<html><body>...</body></html>
 ```
 
 ## Exercise 1
